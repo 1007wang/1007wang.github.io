@@ -1,7 +1,7 @@
 ---
 title: 机器学习——银行客户聚类
-date: 2024-11-27 23:46:20 +/+0800
-categories: [MachineLearning，聚类]
+date: 2024-11-27 23:46 +0800
+categories: [MachineLearning，Kmeans]
 tags: [MachineLearning]
 ---
 
