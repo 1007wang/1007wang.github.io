@@ -118,7 +118,7 @@ comments:
     repo: # <gh-username>/<repo>
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
-    giscus:
+  giscus:
     repo: 1007wang/1007wang.github.io
     repo-id: R_kgDONVot4w
     category: Comments
